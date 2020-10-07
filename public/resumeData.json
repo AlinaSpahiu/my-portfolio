@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Alina Spahiu",
+    "occupation": "Student @ Faculty of Computer Science, Prizren, Kosova",
+    "description": "Very hard worker",
+    "image": "Alina.jpg",
+    "bio": "My name is Alina, I'm a Computer Science student. My goal is to be a full-stack developer, and I'm working hard on it. Usually in my free time I like to code, read and travel!",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "alina.s.abbaz@gmail.com",
+    "phone": "+355 69 8777 542",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Tirane",
+      "state": "Albania",
+      "zip": "1001"
+    },
+   
+   
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/alina.spahiuu/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/alina-spahiu-9a3101183/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/alina.spahiu_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AlinaSpahiu",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Communicative, quite and strict on schedule. Able to learn quickly and adapt to new environments. Sociable and collaborative as well as open to any new challenges.",
+    "education": [
+      {
+        "school": "University of Prizren",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "continuing",
+        "description": "Computer Science/ Software Desing"
+      }
+    ],
+    "work": [
+      {
+        "company": "Akademia Shqiptare Online",
+        "title": "Social Media Manager",
+        "years": "July 2019 - Present",
+        "description": "Manage Social Networks"
+      },
+      {
+        "company": "Lauresha",
+        "title": "Seller",
+        "years": "June 2018 - Octomber 2018",
+        "description": "Seller in a bakery"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "45%"
+      },
+     
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+
+      {
+        "name": "Git",
+        "level": "60%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+     
+      {
+        "title": "Linkedin Front-end Clone",
+        "category": "Linkedin Clone built with Reactjs ",
+        "image": "coding.jpeg",
+        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+      },
+      {
+        "title": "Linkedin Front-end Clone",
+        "category": "Linkedin Clone built with Reactjs ",
+        "image": "coding.jpeg",
+        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+      },
+      {
+        "title": "Linkedin Front-end Clone",
+        "category": "Linkedin Clone built with Reactjs ",
+        "image": "coding.jpeg",
+        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+      },
+      {
+        "title": "Linkedin Front-end Clone",
+        "category": "Linkedin Clone built with Reactjs ",
+        "image": "coding.jpeg",
+        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "What I really love about Alina is that when she says she is gonna do something, no matter what she does that thing!",
+        "user": "Nexhat Ibrahimi"
+      },
+      {
+        "text": "This girl is a very hard worker, she is adaptive in every situation. She learns fasts, and she is able to do things in a way that no one else can do it!. But, to be honest, she is very quite and that makes hard to figure out how amaizing she is!",
+        "user": "Reihanna Abbes"
+      }
+    ]
+  }
+}
