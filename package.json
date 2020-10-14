@@ -1,6 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
+  "serve": "^11.3.2",
   "private": true,
   "homepage":"http://alinaspahiu.com/",
   "dependencies": {
