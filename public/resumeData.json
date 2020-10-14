@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Alina Spahiu",
-    "occupation": "Student @ Faculty of Computer Science, Prizren, Kosova",
+    "occupation": "MERN stack DEVELOPER",
     "description": "Very hard worker",
     "image": "Alina.jpg",
     "bio": "My name is Alina, I'm a Computer Science student. My goal is to be a full-stack developer, and I'm working hard on it. Usually in my free time I like to code, read and travel!",
@@ -9,7 +9,6 @@
     "email": "alina.s.abbaz@gmail.com",
     "phone": "+355 69 8777 542",
     "address": {
-      "street": "123 Fake Street",
       "city": "Tirane",
       "state": "Albania",
       "zip": "1001"
@@ -97,21 +96,15 @@
     "projects": [
      
       {
-        "title": "Linkedin Front-end Clone",
-        "category": "Linkedin Clone built with Reactjs ",
-        "image": "coding.jpeg",
-        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
+        "title": "Solo Capstone",
+        "category": "Hotel Website",
+        "image": "Untitled.png",
+        "url": "http://localhost:3000/"
       },
       {
-        "title": "Linkedin Front-end Clone",
-        "category": "Linkedin Clone built with Reactjs ",
-        "image": "coding.jpeg",
-        "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
-      },
-      {
-        "title": "Linkedin Front-end Clone",
-        "category": "Linkedin Clone built with Reactjs ",
-        "image": "coding.jpeg",
+        "title": "Amazone Front-end Clone",
+        "category": "Amazone Clone built with React.js ",
+        "image": "Amazon.png",
         "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
       },
       {
@@ -120,17 +113,18 @@
         "image": "coding.jpeg",
         "url": "https://m.facebook.com/story.php?story_fbid=2461540724137760&id=100008455685725"
       }
+    
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "What I really love about Alina is that when she says she is gonna do something, no matter what she does that thing!",
-        "user": "Nexhat Ibrahimi"
+        "text": "Don’t compare yourself with anyone in this world…if you do so, you are insulting yourself.",
+        "user": "Bill Gates"
       },
       {
-        "text": "This girl is a very hard worker, she is adaptive in every situation. She learns fasts, and she is able to do things in a way that no one else can do it!. But, to be honest, she is very quite and that makes hard to figure out how amaizing she is!",
-        "user": "Reihanna Abbes"
+        "text": "Don’t let the noise of others’ opinions drown out your own inner voice.",
+        "user": "Steve Jobs"
       }
     ]
   }
